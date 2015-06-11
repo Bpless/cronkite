@@ -1,0 +1,4 @@
+futures==3.0.2
+haigha==0.8.0
+pika==0.9.14
+tornado==4.2
